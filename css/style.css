@@ -1,0 +1,34 @@
+
+/*  * select all node */
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+/* select the node <body> */
+body
+{
+    overflow: hidden;
+}
+
+/* select all <div> node */
+div
+{
+    position: absolute;
+}
+
+
+#game-container
+{
+    
+    top:50%;
+    left:50%;
+    
+    margin-left: -400px;
+    margin-top:-400px;
+    
+    
+    background-color: #999;
+}
+
